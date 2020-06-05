@@ -7,7 +7,7 @@
 
 body {
     font-family: sans-serif, arial;
-    height: 3000px;
+   
 }
 html{
     scroll-behavior: smooth;
@@ -160,6 +160,59 @@ p {
     font-weight: 700;
     font-size: 25px;
     padding: 6px 0px;
+}
+/* submission part start */
+#submission{
+    background: #e6b6c6;
+    padding: 35px 0px;
+    margin-top: 60px;
+    padding-left: 40%;
+    
+}
+
+.sumission-content h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.sumission-content h5 {
+	font-family: 'Playfair Display', serif;
+	font-weight: normal;
+	font-size: 19px;
+}
+
+.sumission-content input[type="text"] {
+	display: block;
+	padding: 8px;
+	border: none;
+	background: #ffffff;
+	box-shadow: 1px 1px 2px #fff;
+	padding-right: 146px;
+    margin-top: 12px;
+    color:#6c757d;
+    
+}
+.custom-btn{
+    padding: 6px 20px;
+    border: none;
+    background: #ff247a;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-top: 12px;
+}
+    
+
+/* submission part end */
+/* footer part style */
+.footer-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    text-transform: capitalize;
+    padding: 20px 0px;
+    
 }
 
 
