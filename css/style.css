@@ -9,6 +9,9 @@ body {
     font-family: sans-serif, arial;
     height: 3000px;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 a {
     text-decoration: none;
@@ -31,9 +34,18 @@ p {
 .clear {
     overflow: hidden;
 }
+/* header area start */
+.custom-color{
+    background: #cfc6c6;
+
+}
+/* header area end */
 .color{
     color: #E6B6C6;
 }
 .bg-gradiant{
     background-image: linear-gradient(red, green)
 }
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Hammersmith One', sans-serif;
+font-family: 'Playfair Display', serif;*/
