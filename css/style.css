@@ -101,7 +101,7 @@ p {
 .catageroy-wrap{
    padding-top: 30px;
 }
-/* catagory part end */
+
 .color{
     color: #E6B6C6;
 }
@@ -131,6 +131,40 @@ p {
     padding-right: 30px;
     margin-left: 0px;
 }
+/* catagory part end */
+/* shoe catagory part start */
+.shoe-head{
+    padding-top: 65px;
+    font-family:'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.custom-card {
+	background: #f4ecec;
+	box-shadow: 5px 6px 12px #cccbcb;
+}
+.custom-card h5{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.custom-card p{
+    padding-right: 3px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+}
+.custom-card h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 6px 0px;
+}
+
+
+/* shoe catagory part end */
+
 
 /* font-family: 'Roboto', sans-serif;
 font-family: 'Hammersmith One', sans-serif;

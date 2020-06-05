@@ -29,7 +29,12 @@
     .navbar-nav .nav-link {
         text-align:center;
     }
-        
+    /* its */
+    .btn-custom{
+        font-size: 10px;
+        padding: 6px 12px;
+             
+    }
     
 }
 
@@ -45,6 +50,7 @@
     .navbar-nav .nav-link {
         text-align:center;
     }
+   
 }
 
 /*Large devices (desktops, 992px and up)*/
